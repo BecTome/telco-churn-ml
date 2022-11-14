@@ -1,0 +1,181 @@
+,mean_fit_time,std_fit_time,mean_score_time,std_score_time,param_classifier,param_classifier__max_features,param_classifier__min_samples_leaf,param_classifier__n_estimators,params,split0_test_score,split1_test_score,split2_test_score,split3_test_score,split4_test_score,mean_test_score,std_test_score,rank_test_score
+14,3.813161754608154,0.1531233751544453,0.19168076515197754,0.004790391316055417,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,10,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 1000}",0.8275621118012423,0.8358362910381544,0.8561723602484472,0.8696203799539246,0.8393331102932977,0.8457048506670132,0.015156964181527005,1
+11,4.07524151802063,0.06739952046309218,0.2146087646484375,0.019043156639581702,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,8,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 1000}",0.8269853593611358,0.8351597160603372,0.8548192102928128,0.8684295460363037,0.8395896063343371,0.8449966876169853,0.01480534557759729,2
+29,5.461387062072754,0.22766801588981087,0.24484720230102539,0.012954379275681306,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,10,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 1000}",0.8277284826974267,0.8349489795918368,0.8529003992901509,0.8685853560815999,0.8378610460577673,0.8444048527437564,0.014609635955247684,3
+10,0.4636714935302734,0.08568435439500847,0.027115249633789064,0.00566009386013706,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,8,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 100}",0.826702528837622,0.8345940550133097,0.8537433451641526,0.8676727543877222,0.8388424222147877,0.8443110211235189,0.014622744769087098,4
+13,0.41071343421936035,0.03278442220015215,0.033204841613769534,0.014257443896418606,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,10,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 100}",0.8266359804791481,0.8339008429458741,0.8514696095829636,0.868218089546259,0.8411620385859261,0.8442773122280341,0.014515389008535972,5
+8,4.249490976333618,0.09822476768773304,0.20925331115722656,0.008126670846880183,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,6,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 1000}",0.8274401064773735,0.833695652173913,0.8531222271517303,0.8673277464302805,0.838162150105944,0.8439495764678483,0.014435208471286438,6
+28,0.5581385135650635,0.04433480925378398,0.03184976577758789,0.006948071742081976,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,10,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 100}",0.8246395297249334,0.8354370008873114,0.8519132653061223,0.8673166171413308,0.8399130143860823,0.8438438854891561,0.01463570127122041,7
+26,5.605714511871338,0.12017535079445298,0.26254868507385254,0.029548240713211812,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,8,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 1000}",0.8275066548358475,0.8342280390417036,0.8521794587400177,0.86693822131704,0.8377160700345712,0.843713688793836,0.014139767349005714,8
+44,7.707359075546265,0.540308896051933,0.5858637809753418,0.44138473442964704,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,10,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 1000}",0.8266304347826087,0.8346051464063886,0.8515361579414376,0.8682626067020578,0.8357644697223152,0.8433597631109617,0.01484053417480564,9
+7,0.4256136417388916,0.015312976771456868,0.03484816551208496,0.008343457268040238,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,6,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 100}",0.8261479591836736,0.8344165927240461,0.8518023513753327,0.8655359309093742,0.8370023419203747,0.8429810352225603,0.013992754095982081,10
+25,0.5932446956634522,0.03708995370014952,0.032196760177612305,0.00390242809540166,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,8,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 100}",0.8258484915705413,0.8325865128660159,0.8515361579414373,0.8670717727844368,0.8373145979703356,0.8428715066265534,0.014745659948513493,11
+59,5.559484958648682,0.9190747042430553,0.15042757987976074,0.031444959067025935,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,10,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 1000}",0.8264862466725821,0.832575421472937,0.8493955190771961,0.8674056514529288,0.8354076056652169,0.8422540888681722,0.01464770909177445,12
+43,0.6340314865112304,0.034954279822332616,0.03133864402770996,0.00710563490680925,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,10,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 100}",0.8275454747116238,0.8311889973380657,0.8494731588287489,0.8673611342971298,0.8356752537080405,0.8422488037767216,0.014591361928528253,13
+23,5.847136640548706,0.1426336562630252,0.2578878879547119,0.018158387640268094,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,6,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 1000}",0.8261202307009761,0.8326863354037268,0.8491736912156167,0.8676171079429735,0.835061893609903,0.8421318517746392,0.014796350104326377,14
+5,5.014390134811402,0.3346692343521073,0.22816715240478516,0.01165722394703571,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,4,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 1000}",0.8253992901508429,0.8324866903283052,0.8499833629103815,0.8666043426485481,0.8360990297758447,0.8421145431627846,0.014628398667230431,15
+37,0.6509690761566163,0.03515427817131314,0.04008674621582031,0.010648997825195303,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,6,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 100}",0.8252329192546585,0.8309228039041703,0.8497504436557232,0.8664819204701013,0.8381509981041597,0.8421078170777626,0.014683526618725276,16
+41,7.4023175716400145,0.29734027976576705,0.2957578659057617,0.037685303890424134,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,8,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 1000}",0.8257874889086069,0.8325310559006212,0.849450976042591,0.8668937041612412,0.8355860376937659,0.8420498525413652,0.014620851241885741,17
+4,0.6950205326080322,0.10810648409705878,0.048206138610839847,0.035860845633908955,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,4,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 100}",0.8263198757763975,0.8298469387755102,0.8506821206743567,0.8652465693966812,0.8376714620274338,0.8419533933300759,0.014339252288624742,18
+40,0.785734748840332,0.06497574599033568,0.042319965362548825,0.016962001374966767,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,8,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 100}",0.8254769299023956,0.832209405501331,0.848286379769299,0.8672164535407834,0.8356975577116093,0.8417773452850836,0.014722286432848503,19
+58,0.691361665725708,0.0365838467535242,0.033524370193481444,0.005101684834957943,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,10,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 100}",0.8263531499556345,0.8303793256433007,0.8501053682342503,0.8657028702436201,0.8336901973904315,0.8412461822934475,0.014653318085337716,20
+56,7.5807877540588375,0.39004639268185587,0.24668092727661134,0.022339833547309684,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,8,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 1000}",0.8255656610470276,0.8322426796805679,0.8477650842945874,0.8652465693966813,0.8340805174528828,0.8409801023743494,0.014117005562481477,21
+22,0.47365221977233884,0.023189927251094478,0.028424930572509766,0.002667624100099852,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,6,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 100}",0.824816992014197,0.8309449866903283,0.8505933895297249,0.864723492816044,0.8333667893386862,0.8408891300777961,0.014669933322888075,22
+12,0.05233149528503418,0.01153632609476193,0.009587240219116212,0.0013448052602336373,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,10,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 10}",0.8204691659272406,0.8389917923691215,0.8497171694764862,0.8600714500350573,0.834855581576893,0.8408210318769598,0.013437641352158932,23
+38,7.127939653396607,0.2622515915187596,0.2866965770721436,0.01820368762818925,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,6,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 1000}",0.8240849600709849,0.832919254658385,0.8472659716060337,0.865624965220972,0.8340582134493141,0.840790673001138,0.014457092687888045,24
+55,0.7786682605743408,0.08771857743575857,0.03171830177307129,0.0033632238723957718,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,8,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 100}",0.8234638420585626,0.828405057675244,0.8482087400177463,0.8659031974447152,0.8352068696330992,0.8402375413658735,0.015290115936310186,25
+20,5.505822610855103,0.3078391695219272,0.2819939613342285,0.02901740796987809,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,4,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 1000}",0.8238686779059451,0.8328305235137533,0.8457353593611356,0.865090759351385,0.8328426452548232,0.8400735930774085,0.014319651843969964,26
+53,7.511467361450196,0.15733703527885,0.303619384765625,0.05481424951130455,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,6,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 1000}",0.8237799467613132,0.8298358473824312,0.8441714729370009,0.8652354401077315,0.833110293297647,0.8392266000972247,0.014595246286311736,27
+6,0.053127193450927736,0.0024261113211351266,0.016051292419433594,0.009194213658108293,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,6,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 10}",0.8170807453416149,0.8262976929902396,0.8460514640638864,0.8719742245667925,0.8329430132708822,0.8388694280466831,0.019054798883413257,28
+19,0.4709623336791992,0.01640772455400525,0.026418161392211915,0.002422316080884481,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,4,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 100}",0.821240017746229,0.8295807453416149,0.8455689884649512,0.8637997618332164,0.8323408051745288,0.838506063712108,0.014869056021495033,29
+35,6.857145738601685,0.16729070959653622,0.2788881301879883,0.026376358501373116,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,4,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 1000}",0.8233917480035491,0.8293811002661935,0.8429403283052351,0.8629428065840874,0.8306457009033121,0.8378603368124754,0.01405862787928978,30
+42,0.09699420928955078,0.013768013127853617,0.013782930374145509,0.004685108366625328,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,10,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 10}",0.8199589618456078,0.8241459627329192,0.8467114019520852,0.8618298776891142,0.8360544217687076,0.8377401251976868,0.015261799376381079,31
+52,0.7354892253875732,0.04628328306753009,0.03253493309020996,0.00451739889453777,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,6,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 100}",0.8218999556344277,0.8284605146406389,0.8450476929902396,0.8606835609272924,0.8319393331102933,0.8376062114605783,0.013786830371051977,32
+34,0.7043601512908936,0.03799774476325621,0.03609676361083984,0.006858672381253589,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,4,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 100}",0.8215062111801241,0.8274290150842946,0.8432065217391305,0.8638721022113898,0.8306735809077729,0.8373374862245424,0.015044906961367134,33
+57,0.08334937095642089,0.010359763158220334,0.008085918426513673,0.0011076223956220073,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,10,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 10}",0.8206743566992013,0.8269742679680568,0.8404503105590062,0.8661703003795087,0.8311363889818222,0.8370811249175191,0.01590095611626473,34
+27,0.06338300704956054,0.0025703971592204835,0.01844172477722168,0.015362442637595805,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,10,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 10, 'classifier__n_estimators': 10}",0.8184338952972492,0.8249944543034604,0.849633984028394,0.8599935450124092,0.8321512211441954,0.8370414199571415,0.015496168005677132,35
+2,6.10678391456604,0.14874107256147695,0.2729428768157959,0.014432389139420621,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,2,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 1000}",0.8194265749778171,0.8287488908606921,0.8436058118899734,0.8622861785360533,0.8311029329764692,0.837034077848201,0.014796643117296926,36
+24,0.07749238014221191,0.006581795815139001,0.01817464828491211,0.011975839423068077,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,8,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 10}",0.826680346051464,0.8350099822537711,0.8391692546583851,0.8573113863755245,0.8264469722315155,0.8369235883141322,0.011305314784386386,37
+9,0.05045695304870605,0.002443200167569775,0.010990190505981445,0.00405693469610033,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,8,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 10}",0.8121506211180123,0.8245341614906833,0.8472105146406388,0.8634547538757749,0.8352291736366677,0.8365158449523553,0.017770543986461072,38
+50,8.181826114654541,0.29101831646025955,0.287858772277832,0.016498273694894625,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,4,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 1000}",0.8222160603371782,0.8280390417036381,0.8409771517302573,0.8616518090659188,0.8291178766588603,0.8364003878991706,0.014019438409998674,39
+49,1.0821333408355713,0.39288408381523365,0.03967418670654297,0.006742193328019903,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,4,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 100}",0.8209350044365573,0.8276730257320319,0.8405113132209406,0.8592478826527774,0.8325192372030779,0.836177292649077,0.01318383201373596,40
+39,0.07067933082580566,0.003712007193445074,0.01380457878112793,0.00719739332250949,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,8,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 10}",0.8149012866015971,0.8242846051464064,0.846938775510204,0.8554472304764449,0.8311308129809301,0.8345405421431165,0.014787269271618357,41
+17,5.287112426757813,0.10824237613166264,0.25731706619262695,0.015463245611980038,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,2,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 1000}",0.8165927240461401,0.8267413487133984,0.837649733806566,0.8596930542107665,0.8295193487230959,0.8340392418999935,0.014486016722357692,42
+16,0.518190860748291,0.021531511454382035,0.029356670379638673,0.0030518471786706086,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,2,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 100}",0.8163708961845608,0.8254769299023957,0.8353316326530612,0.861679632288293,0.8304059328649493,0.833853004778652,0.015258916049036881,43
+1,0.6943180084228515,0.06802537250805231,0.06719880104064942,0.059595919072498345,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,2,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 100}",0.8182730700976042,0.8245452528837622,0.8395574534161491,0.8612288960858291,0.8255269320843092,0.8338263209135308,0.015366643716120634,44
+36,0.0878267765045166,0.018158652363113578,0.01053605079650879,0.0019064664087841392,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,6,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 10}",0.8173746672582078,0.8194432120674356,0.8458129991126885,0.8581405184022792,0.8206033232965316,0.8322749440274286,0.0165843612877364,45
+32,7.439619827270508,0.0582109977090213,0.2670274257659912,0.01848631647049057,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,2,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 1000}",0.8158939662821649,0.8243788819875777,0.8322814995563442,0.8582128587804525,0.826318724210996,0.8314171861635071,0.014389284235667604,46
+54,0.0876997947692871,0.007302600227400323,0.013028526306152343,0.003192280147857576,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,8,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 8, 'classifier__n_estimators': 10}",0.8185004436557232,0.8179070541259983,0.8391359804791482,0.8651185825737594,0.8157522025203524,0.8312828526709962,0.018921053329430195,47
+18,0.057712459564208986,0.004218333484502666,0.008273983001708984,0.0031170416721507605,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,4,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 10}",0.8126663708961845,0.8255434782608695,0.8441160159716059,0.8375958510010795,0.8341418534626965,0.8308127139184872,0.01087314649769009,48
+21,0.06126513481140137,0.006058190287535434,0.013672733306884765,0.009268553970012828,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,6,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 10}",0.8181122448979591,0.8224212511091391,0.838459405501331,0.85071728267281,0.8224434035909447,0.8304307175544368,0.012293885147736945,49
+31,0.6965817451477051,0.018751338507114596,0.036170578002929686,0.004060708288129448,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,2,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 100}",0.8166759094942325,0.822726264418811,0.831283274179237,0.8580848719575307,0.8227166276346605,0.8302973895368944,0.014652308711802712,50
+47,10.042737150192261,0.25847110007771357,0.46785359382629393,0.19754087667426568,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,2,1000,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 1000}",0.8148901952085182,0.8205079858030169,0.8281111357586514,0.8575451014434687,0.8240548678487787,0.8290218572124868,0.014908157067440014,51
+51,0.08918652534484864,0.006587020841364576,0.010793018341064452,0.0023619213199135916,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,6,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 6, 'classifier__n_estimators': 10}",0.8190217391304347,0.819093833185448,0.8326142413487134,0.8537388846226615,0.8181889149102264,0.8285315226394967,0.013700767784841389,52
+3,0.07567067146301269,0.018293073624078424,0.016214847564697266,0.012838019742384795,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,4,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 10}",0.8110858473824312,0.8191936557231589,0.8247338065661047,0.8592089301414534,0.8276736924277907,0.8283791864481878,0.016417631761211082,53
+33,0.076177978515625,0.006535891689262316,0.011536121368408203,0.005415517567208353,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,4,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 10}",0.8018522626441881,0.8140417036379768,0.8363742236024844,0.8599768510789846,0.8293520686963309,0.8283194219319929,0.019862038011931024,54
+46,1.099349069595337,0.09420336554897506,0.0747483253479004,0.03228678658959136,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,2,100,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 100}",0.8115572315882877,0.821639307897072,0.8263753327417924,0.8566658876164402,0.8182725549236086,0.8269020629534403,0.015644753449836762,55
+48,0.11746478080749512,0.04170841523782441,0.012305116653442383,0.002092319767822799,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,4,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 4, 'classifier__n_estimators': 10}",0.8122670807453418,0.8099157054125998,0.8316492901508428,0.8511123724305254,0.8161034905765585,0.8242095878631737,0.015438629165809018,56
+30,0.09908318519592285,0.015728135562129167,0.013420820236206055,0.008917545829867165,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",8,2,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 8, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 10}",0.7918866459627328,0.8037932564330079,0.8243400621118012,0.8486527995726353,0.8154566744730678,0.816825887710649,0.019303394196210653,57
+15,0.06202454566955566,0.002431325858253625,0.009966611862182617,0.0010931897909844963,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",6,2,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 6, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 10}",0.7984638420585625,0.8120230700976043,0.8121062555456966,0.8429768622082734,0.8101538976246236,0.815144785506952,0.014810571232150259,58
+0,0.17041501998901368,0.008308250588371993,0.016156721115112304,0.0028331056198468256,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",4,2,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 4, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 10}",0.8054514196983142,0.7989629547471162,0.7971384205856255,0.8444681869275372,0.7979201516672243,0.8087882267251635,0.018080723708822185,59
+45,0.13343315124511718,0.03655896567469527,0.01954803466796875,0.014883651459193176,"RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True)",10,2,10,"{'classifier': RandomForestClassifier(max_features=4, min_samples_leaf=10, n_estimators=1000,
+                       oob_score=True), 'classifier__max_features': 10, 'classifier__min_samples_leaf': 2, 'classifier__n_estimators': 10}",0.7884094942324755,0.7997726264418812,0.8030889529724934,0.8317807975248461,0.8073714731794357,0.8060846688702265,0.014305068227709513,60
